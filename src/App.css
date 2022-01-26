@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  max-width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.button {
+  background-color: black !important;
+  border: none !important;
+  margin: 5px !important;
+}
+
+.btn-wrap {
+  margin-bottom: 20px !important;
+}
